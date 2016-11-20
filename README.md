@@ -15,7 +15,7 @@ Before moving on, make sure that you have successfully installed the aforementio
 
 ## Building and running
 
-	$ git clone git@github.com:intrasoftintl/concept.git
+	$ git clone https://github.com/intrasoftintl/concept.git
 	$ cd concept
 	$ mvn clean install
 	$ cd concept-app
